@@ -1,6 +1,7 @@
 # Opa, me chamo Ícaro!
  - Entusiasta na área de segurança da informação;
  - Atualmente estudando para database & programação back-end;
+ - Desenvolvedor full-stack 💻
 
 # Aqui estão algumas estatísticas sobre mim:
 
@@ -14,3 +15,4 @@
 
 # Meus projetos
 ### [Port-Scanner](https://github.com/icrossu/Ruby-Port_scanner.git) ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white)
+### [Site empresarial](https://github.com/icrossu/Work_MultiGeosite.git) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) 

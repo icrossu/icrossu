@@ -16,11 +16,6 @@
 # Meus projetos
 ### [Port-Scanner](https://github.com/icrossu/Ruby-Port_scanner.git) 
 ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white)
-### [Painel-Cadastro](https://github.com/icrossu/Login-API-Rails.git)
-![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 
 ### [Site empresarial](https://github.com/icrossu/Work_MultiGeosite.git) [Private]
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) 

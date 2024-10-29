@@ -3,11 +3,7 @@
 - Atualmente estudando para database & programação back-end;
 - Desenvolvedor full-stack 💻
 
-# Aqui estão algumas estatísticas sobre mim:
-
-| Um pouco sobre mim | Meus commits |
-|:------------------:|:-----------------:|
-| ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=icrossu&show_icons=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icrossu&theme=radical)](https://git.io/streak-stats) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrossu&layout=compact&theme=radical)
 
 | Ruby | PostgreSQL | C | C# | HTML | CSS | JavaScript | Linux | Docker | Figma | VS Code |
 |------|------------|---|----|------|-----|------------|-------|--------|-------|---------|
@@ -17,6 +13,13 @@
 | Rails | Vue |
 |-------|-----|
 | ![Rails](https://img.shields.io/badge/-Rails-red?logo=ruby-on-rails&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue.js-green?logo=vue.js&logoColor=white) |
+
+## Estatísticas do GitHub
+| Total de Commits | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icrossu&show_icons=true&theme=radical) |
+|------------------|:-----------------------------------------------------------------------------------------------------------------:|
+|                  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icrossu&theme=radical) |
+|                  | ![Contribuições](https://github.com/icrossu/github-profile-summary-cards/blob/master/profile-summary-card-output/radical/3-commit-activity.svg) |
+|                  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrossu&layout=compact&theme=radical) |
 
 ## Projetos Back-end/Pentesting/CyberSecurity
 | Pentesting | CyberSecurity  |

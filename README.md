@@ -5,6 +5,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrossu&layout=compact&theme=radical)
 
+## Tecnologias e Ferramentas
 | Ruby | PostgreSQL | C | C# | HTML | CSS | JavaScript | Linux | Docker | Figma | VS Code |
 |------|------------|---|----|------|-----|------------|-------|--------|-------|---------|
 | ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white) | ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white) |
@@ -15,11 +16,10 @@
 | ![Rails](https://img.shields.io/badge/-Rails-red?logo=ruby-on-rails&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue.js-green?logo=vue.js&logoColor=white) |
 
 ## Estatísticas do GitHub
-| Total de Commits | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icrossu&show_icons=true&theme=radical) |
-|------------------|:-----------------------------------------------------------------------------------------------------------------:|
-|                  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icrossu&theme=radical) |
-|                  | ![Contribuições](https://github.com/icrossu/github-profile-summary-cards/blob/master/profile-summary-card-output/radical/3-commit-activity.svg) |
-|                  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrossu&layout=compact&theme=radical) |
+|                                                                                      |
+|--------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icrossu&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrossu&layout=compact&theme=radical) |
 
 ## Projetos Back-end/Pentesting/CyberSecurity
 | Pentesting | CyberSecurity  |
@@ -32,7 +32,7 @@
 |-----------|--------|
 | [Site empresarial](https://github.com/icrossu/Work_MultiGeosite.git) [Private] ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) |   |
 
-## Documentações acadêmicas
+## Documentações Acadêmicas
 | Artigos Acadêmicos |   |
 |---------------------|---|
 | [Estrutura de dados](https://github.com/icrossu/Data_struct.git) [Private] |   |

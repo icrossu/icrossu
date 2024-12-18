@@ -1,6 +1,4 @@
-# Meu Repositório de Apresentação
-
-Este repositório é uma demonstração das minhas habilidades e tecnologias que estou utilizando. Abaixo estão listadas algumas das linguagens, frameworks e ferramentas que domino.
+# Desenvolvedor Full-Stack💻
 
 ## Linguagens
 
